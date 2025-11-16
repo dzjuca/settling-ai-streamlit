@@ -1,0 +1,11 @@
+torch>=2.0.0
+torchvision>=0.15.0
+segmentation-models-pytorch>=0.3.3
+opencv-python-headless>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+streamlit>=1.28.0
+tqdm>=4.65.0
+huggingface-hub>=0.20.0

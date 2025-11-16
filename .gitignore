@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Modelos (se descargan de Hugging Face)
+models/
+*.pth
+*.pt
+
+# Datos locales (no subir)
+Ensayos/
+Calibracion/
+frames_*/
+processed_*/
+results/
+*.mp4
+*.avi
+*.mov
+*.csv
+*.png
+*.jpg
+!README.md
+
+# Archivos temporales
+tmp/
+temp/
+*.tmp
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Streamlit
+.streamlit/
+
+# Environment variables
+.env
+.env.local
